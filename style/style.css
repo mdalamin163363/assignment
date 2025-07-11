@@ -1,6 +1,11 @@
-.all-page{
-    background-color: rgb(235, 234, 244);;
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
+
+
 
 h2 {
    color: #4E47FF;
