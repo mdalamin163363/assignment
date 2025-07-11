@@ -14,6 +14,11 @@ h2 {
    height: 45px;
    color: white;
    font-weight: bold;
+   
+}
+.btn:hover{
+cursor: pointer;
+  background-color: rgb(8, 63, 129);
 }
 nav{
     display: flex;
