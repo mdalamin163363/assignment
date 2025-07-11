@@ -1,3 +1,7 @@
+body{
+    background-color: #FFFFFF;
+}
+
 h2 {
    color: #4E47FF;
    font-size: 35px;
@@ -50,4 +54,73 @@ nav{
 }
 .action-container{
     margin-top: 50px;
+}
+.join-section{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 0px 100px;
+    
+}
+.join-item{
+    display: flex;
+    
+   gap: 100px;
+   justify-content: space-around;
+   font-weight: 700px;
+   font-size: larger;
+   color: #4E47FF ;
+
+}
+.container{
+   background-color: rgb(240, 238, 254);
+    margin: 50px 200px;
+    padding: 10px 80px;
+    border: none;
+    border-radius: 10px;
+}
+.join-description{
+    color: grey;
+}
+.checked {
+  color: orange;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+.what-our{
+    align-items: center;
+   
+}
+.what-title{
+    text-align: center;
+}
+.profile-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 200px;
+    gap: 20px;
+}
+.user-profile{
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 0px black;
+    padding: 20px;
+}
+.reviewer{
+    line-height: 0%;
+}
+.extra-banner{
+    text-align: center;
+}
+.extra-image{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+    
 }
